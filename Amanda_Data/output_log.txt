@@ -1,0 +1,44 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c60)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8541
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Tobi_\Documents\GitHub\Juego-Amanda\Amanda_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Tobi_\Documents\GitHub\Juego-Amanda\Amanda_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Tobi_\Documents\GitHub\Juego-Amanda\Amanda_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Tobi_\Documents\GitHub\Juego-Amanda\Amanda_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Tobi_\Documents\GitHub\Juego-Amanda\Amanda_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Tobi_\Documents\GitHub\Juego-Amanda\Amanda_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Tobi_\Documents\GitHub\Juego-Amanda\Amanda_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Tobi_\Documents\GitHub\Juego-Amanda\Amanda_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Tobi_\Documents\GitHub\Juego-Amanda\Amanda_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Tobi_\Documents\GitHub\Juego-Amanda\Amanda_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Users\Tobi_\Documents\GitHub\Juego-Amanda\Amanda_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Tobi_\Documents\GitHub\Juego-Amanda\Amanda_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.987030 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.578529 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.157173 ms (FindLiveObjects: 0.017868 ms CreateObjectMapping: 0.013128 ms MarkObjects: 0.113048 ms  DeleteObjects: 0.012763 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.262199 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 2.645697 ms (FindLiveObjects: 0.020421 ms CreateObjectMapping: 0.014586 ms MarkObjects: 0.117789 ms  DeleteObjects: 2.491805 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: c50 -> priority: 1 
+  Thread -> id: 4bc8 -> priority: 1 
+  Thread -> id: 3d94 -> priority: 1 
+  Thread -> id: 1d14 -> priority: 1 
